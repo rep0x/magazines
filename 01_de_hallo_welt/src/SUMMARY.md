@@ -11,4 +11,10 @@
     - [Unsere Mission](./02_was_ist_einfachiota/021_unsere_mission.md)
     - [Wir stellen uns vor](./02_was_ist_einfachiota/022_wir_stellen_uns_vor.md)
     - [einfachIOTA Linksammlung](./02_was_ist_einfachiota/023_einfachIOTA_linksammlung.md)
+- [Rückblick](./03_rueckblick/README.md)
+- [Aktuelles](./04_aktuelles/README.md)
+    - [Was gibts Neues? ](./04_aktuelles/041_was_gibts_neues.md)
+- [Menschen](./05_menschen/README.md)
+    - [5x5 Fragen](./05_menschen/051_5x5_fragen.md)
+    - [Spotlight](./05_menschen/052_spotlight.md)
 

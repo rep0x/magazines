@@ -1,0 +1,4 @@
+# Menschen
+Es sind die Menschen, die die Welt verändern. Es sind die Menschen, die mit Optimismus und Mut in die Zukunft blicken und gemeinsam auf ein großes Ziel hinarbeiten. IOTA hat es geschafft, viele Tausende Enthusiasten und Philanthropen auf einen gemeinsamen Weg zu schicken und wir stellen Dir heute eine Handvoll dieser Menschen vor. In unserem 5x5 Format haben wir fünf Menschen aus dem Universum die gleichen fünf Fragen gestellt. Außerdem haben wir in dieser Ausgabe einen ganz besonderen Gast im Spotlight: Dominik Schiener, einer der Gründer der IOTA Foundation. Nach dem Motto Ein Tag im Leben von ... lernst Du Dominik heute mal ganz privat kennen.
+
+TEXT SVEN REISER
