@@ -17,4 +17,7 @@
 - [Menschen](./05_menschen/README.md)
     - [5x5 Fragen](./05_menschen/051_5x5_fragen.md)
     - [Spotlight](./05_menschen/052_spotlight.md)
+- [Events](./06_events/README.md)
+    - [Zukünftige Events](./06_events/061_zukuenftige_events.md)
+    - [München Meetup](./06_events/062_muenchen_meetup.md)
 
