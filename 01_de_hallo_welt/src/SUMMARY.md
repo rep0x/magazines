@@ -20,4 +20,7 @@
 - [Events](./06_events/README.md)
     - [Zukünftige Events](./06_events/061_zukuenftige_events.md)
     - [München Meetup](./06_events/062_muenchen_meetup.md)
+- [Projekte](./07_projects/README.md)
+    - [Alle Projekte er Woche](./07_projects/071_alle_projekte_der_woche.md)
+    - [Deposy](./07_projects/072_deposy.md)
 
