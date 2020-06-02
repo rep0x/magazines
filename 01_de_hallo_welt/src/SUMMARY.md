@@ -28,4 +28,7 @@
     - [Was ist MAM?](./08_erklaerecke/082_was_ist_mam.md)
     - [Was ist das Ternäre System?](./08_erklaerecke/083_was_ist_das_ternaere_system.md)
     - [Was ist Proof of Work?](./08_erklaerecke/084_was_ist_proof_of_work.md)
+- [Bastelecke](./09_bastelecke/README.md)
+    - [IOTA Apps in unter 5 Minuten entwickeln](./09_bastelecke/091_IOTA_apps_in_unter_5_minuten_entwickeln.md)
+    - [Hardware Wallet mit ESP32](./09_bastelecke/092_wardware_wallet_mit_ESP32.md)
 
