@@ -11,6 +11,8 @@ Als Jahresausgabe 2019 haben wir den Anspruch die wichtigsten Menschen, Projekte
 wie dem Coordicide, Masked Authenticated Messaging und Proof of Work ein. Kapitel 9 stellt, für die Bastler unter euch, verschiedene Hardware Projekte ins Rampenlicht. Darunter zum Beispiel eine Anleitung zum kostengünstigen Hardware Wallet. Zu guter Letzt haben wir noch einige Gastbeiträge für Dich.
 Wir sind unglaublich stolz auf das Team, die zahlreichen Helfer aus der IOTA Community und jeden Einzelnen, der das Magazin im Vorverkauf bestellt hat. Ohne euch würde es dieses Magazin nicht geben. Vielen Dank! Für Feedback und Fragen stehen wir Dir jederzeit auf unserem Discord Server zur Verfügung. Wir hoffen Deine Leselust geweckt zu haben und wünschen Dir viel Spaß und Freude beim Weiterlesen!
 
+Peter Weinmann
+
 
 Sebastian Heußer
 Chefredakteur, einfachIOTA 
