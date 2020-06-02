@@ -31,4 +31,10 @@
 - [Bastelecke](./09_bastelecke/README.md)
     - [IOTA Apps in unter 5 Minuten entwickeln](./09_bastelecke/091_IOTA_apps_in_unter_5_minuten_entwickeln.md)
     - [Hardware Wallet mit ESP32](./09_bastelecke/092_wardware_wallet_mit_ESP32.md)
+- [Partnerartikel](./10_partnerartikel/README.md)
+    - [Lidbot](./10_partnerartikel/101_lidbot.md)
+    - [Accessec](./10_partnerartikel/102_accessec.md)
+    - [Smarter Plastikmüll mit Deposy](./10_partnerartikel/103_smarter_plastikmüll_mit_Deposy.md)
+    - [IOTA Team Karlsruhe](./10_partnerartikel/104_IOTA_team_karlsruhe.md)
+- [Schlusswort](./11_danke/README.md)
 
