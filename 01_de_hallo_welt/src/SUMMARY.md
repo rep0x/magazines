@@ -23,4 +23,9 @@
 - [Projekte](./07_projects/README.md)
     - [Alle Projekte er Woche](./07_projects/071_alle_projekte_der_woche.md)
     - [Deposy](./07_projects/072_deposy.md)
+- [Erklärecke](./08_erklaerecke/README.md)
+    - [Was ist der Coordicide?](./08_erklaerecke/081_was_ist_der_coordicide.md)
+    - [Was ist MAM?](./08_erklaerecke/082_was_ist_mam.md)
+    - [Was ist das Ternäre System?](./08_erklaerecke/083_was_ist_das_ternaere_system.md)
+    - [Was ist Proof of Work?](./08_erklaerecke/084_was_ist_proof_of_work.md)
 
